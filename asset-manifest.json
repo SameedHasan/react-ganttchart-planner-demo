@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-ganttchart-planner-demo/static/css/main.31d6cfe0.css",
+    "main.js": "/react-ganttchart-planner-demo/static/js/main.aa6c7667.js",
+    "static/js/787.dba1d716.chunk.js": "/react-ganttchart-planner-demo/static/js/787.dba1d716.chunk.js",
+    "index.html": "/react-ganttchart-planner-demo/index.html",
+    "main.aa6c7667.js.map": "/react-ganttchart-planner-demo/static/js/main.aa6c7667.js.map",
+    "787.dba1d716.chunk.js.map": "/react-ganttchart-planner-demo/static/js/787.dba1d716.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.aa6c7667.js"
+  ]
+}
